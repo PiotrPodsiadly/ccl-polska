@@ -20,3 +20,7 @@ Open img/ccl-logo-sprite.png in any image editor software (like Microsoft Paint)
 Replace Polish flag with your flag and text. Test if it looks nice
 
 Note: sprite image contains 3 graphics together, it's a bundle saving network traffic and optimizing user experience. Each graphic has to be in right place so that animation looks good.
+
+## Edit email address
+It has anti-spam protection 'pol' + 'and' instead of poland@domain.com
+you can break your country word in pieces and create something like 'coun'+'try'
