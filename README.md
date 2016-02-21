@@ -23,4 +23,5 @@ Note: sprite image contains 3 graphics together, it's a bundle saving network tr
 
 ## Edit email address
 It has anti-spam protection 'pol' + 'and' instead of poland@domain.com
-you can break your country word in pieces and create something like 'coun'+'try'
+
+You can break your country word in pieces and create something like 'coun'+'try'
