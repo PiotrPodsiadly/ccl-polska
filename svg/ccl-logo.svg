@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250mm"
+   height="50mm"
+   viewBox="0 0 885.82677 177.16535"
+   id="svg9857"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ccl-logo.svg">
+  <defs
+     id="defs9859" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="436.43298"
+     inkscape:cy="294.5485"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9862">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-875.19685)">
+    <path
+       style="display:inline;opacity:1;fill:#a5ce39;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
+       d="m 61.721252,915.52286 a 63.260803,63.260803 0 0 0 -18.609375,44.75391 63.260803,63.260803 0 0 0 63.261723,63.25973 63.260803,63.260803 0 0 0 44.63086,-18.4882 l -9.14258,-9.16802 A 50.299055,50.299055 0 0 1 106.3736,1010.5756 50.299055,50.299055 0 0 1 56.074768,960.27677 50.299055,50.299055 0 0 1 70.865784,924.69278 l -9.144532,-9.16992 z"
+       id="path4161-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;fill:#1094d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
+       d="m 77.768127,931.6127 a 40.522268,40.522268 0 0 0 -11.916015,28.66407 40.522268,40.522268 0 0 0 40.521488,40.52153 40.522268,40.522268 0 0 0 28.58398,-11.83989 l -9.17383,-9.20117 a 27.516551,27.516551 0 0 1 -19.41015,8.03515 27.516551,27.516551 0 0 1 -27.517582,-27.51562 27.516551,27.516551 0 0 1 8.087891,-19.46289 l -9.175782,-9.20118 z"
+       id="path4171-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
+       d="m 91.348206,938.767 0,36.30274 35.228514,0 0,-13.38477 -22.09765,0 0,-22.91797 -13.130864,0 z"
+       id="rect4186-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:66.22134399px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="160.00333"
+       y="985.99219"
+       id="text10416-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10418-8"
+         x="160.00333"
+         y="985.99219">Citizens’ Climate</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4154-3"
+       y="985.99219"
+       x="661.21741"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.22125244px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="985.99219"
+         x="661.21741"
+         id="tspan4156-4"
+         sodipodi:role="line">Lobby</tspan></text>
+  </g>
+</svg>
