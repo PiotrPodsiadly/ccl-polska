@@ -1,0 +1,113 @@
+em{
+	font-weight:bold; font-style:normal;
+}
+h4.title{
+  margin-bottom:5px;
+}
+
+.titled{
+  margin-top:0px;
+}
+.h{
+  display:none;
+}
+body{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+nav.navbar.shrink {
+	min-height: 50px;
+	transition: all 0.2s ease;
+}
+nav.navbar{
+   box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+   background-color: #ffffff;
+   border: none;
+   min-height: 90px;
+}
+nav .navbar-header{
+	background: url(../../img/ccl-logo-sprite.png) no-repeat;	
+	height:90px;	
+}
+@media (min-width: 768px) {
+	nav .navbar-header{
+		width:347px;
+	}
+}
+
+nav.shrink .navbar-header{
+	height:50px;
+	background-position: 0px -90px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	nav .navbar-header{
+		width:191px;
+		background-position: 0px -140px;
+	}
+	nav.shrink .navbar-header{
+		background-position: 0px -140px;
+	}
+}
+
+@media (max-width: 410px) {
+	nav .navbar-header{
+		background-position: 0px -140px;
+	}
+	nav.shrink .navbar-header{
+		background-position: 0px -140px;
+	}
+}
+
+.linkable{
+	padding-top: 50px;
+	padding-bottom:15px;
+}
+.linkable h2{
+	margin-top:4px;
+}
+
+.tytul{
+	padding-top:60px;
+	padding-bottom: 25px;
+	background-color: #d3eaf4;
+}
+
+#przypisy{
+	background-color: #e8e8e8;
+}
+
+#obliczenia{
+	background-color: #0098da;
+	color:white;
+}
+#obliczenia a{
+	color:#a4dcf4;
+}
+#obliczenia a:hover{
+	color:#bbe3f4;	
+}
+
+#atrybucje{
+	background-color: #e4e4e4
+}
+
+#dolacz-do-nas{
+	background-color: black;
+	color:white;
+	font-size:1.15em;
+}
+#dolacz-do-nas a{
+	color:#ffffff;	
+}
+#dolacz-do-nas a:hover{
+	color:#d9d9d9;
+}
+#dolacz-do-nas a.kontakt{
+	transition: all 0.3s ease;
+}
+#dolacz-do-nas a.blink{
+	color:#40d8f4;
+}
