@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="infographic.svg"
-   inkscape:export-filename="F:\development\svg\ccl\infographic.png"
+   inkscape:export-filename="F:\development\svg\ccl\infografika-o-zmianie-klimatu.png"
    inkscape:export-xdpi="127.26"
    inkscape:export-ydpi="127.26">
   <title
@@ -3258,16 +3258,6 @@
        id="p-1"
        x="0"
        y="0" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7292"
-       id="linearGradient6744"
-       gradientUnits="userSpaceOnUse"
-       x1="209.3036"
-       y1="941.95715"
-       x2="529.13721"
-       y2="145.75496"
-       gradientTransform="matrix(1.4680061,0,0,1.452224,-20.044317,-455.86151)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3276,11 +3266,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="687.73967"
-     inkscape:cy="825.50459"
+     inkscape:zoom="1"
+     inkscape:cx="570.0499"
+     inkscape:cy="1003.2192"
      inkscape:document-units="px"
-     inkscape:current-layer="g6812"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="true"
      inkscape:showpageshadow="true"
@@ -3342,7 +3332,7 @@
        height="1528.2737"
        width="1092.3398"
        id="rect6742"
-       style="fill:url(#linearGradient6744);fill-opacity:1"
+       style="fill:#0096d7;fill-opacity:1"
        inkscape:export-xdpi="299.96985"
        inkscape:export-ydpi="299.96985" />
   </g>
@@ -3360,12 +3350,12 @@
        y="-56.634071"
        id="rect9534" />
     <path
-       style="opacity:0.3;fill:#d2e79d;fill-opacity:1"
+       style="opacity:0.8;fill:#76d6dc;fill-opacity:1"
        d="m 523.04329,354.18123 c -7.42652,-3.83602 -15.25345,-7.01049 -17.39321,-7.05437 -2.54518,-0.052 -6.4281,-2.78273 -11.22929,-7.89661 -5.58583,-5.94966 -8.83047,-8.05612 -13.58371,-8.81864 -3.43469,-0.55099 -9.26671,-1.7683 -12.96009,-2.70512 -6.3231,-1.60386 -7.02888,-1.42792 -12.08767,3.01377 -8.34058,7.32309 -18.36054,9.22037 -27.69372,5.2438 -10.43793,-4.44727 -23.1962,-2.56584 -28.04416,4.13564 -8.6077,11.89871 -11.46487,14.13818 -15.44408,12.10538 -2.05711,-1.05086 -7.07804,-1.74961 -11.15762,-1.55278 -9.09301,0.43877 -9.92454,-0.32508 -9.57858,-8.79853 0.24263,-5.94412 -0.30412,-7.08809 -4.73086,-9.89803 -5.47942,-3.47812 -7.00331,-5.71389 -8.39143,-12.31132 -1.29169,-6.13903 -3.26074,-5.46252 -8.09115,2.77996 -4.11023,7.01361 -4.34387,7.14807 -12.37831,7.1242 -10.69247,-0.032 -10.64423,0.007 -19.13301,-15.86127 -2.10308,-3.93169 -5.97441,-8.72901 -8.60295,-10.6607 -3.05465,-2.24487 -5.73852,-6.40059 -7.43794,-11.51707 -1.49313,-4.49539 -3.62607,-8.00486 -4.86505,-8.00486 -1.21342,0 -5.05907,-1.48699 -8.54579,-3.30438 -3.5727,-1.86217 -7.66244,-2.8845 -9.37059,-2.34234 -13.79777,4.37924 -29.26876,-7.0938 -26.50907,-19.65866 0.9016,-4.10493 0.65455,-4.40529 -3.04201,-3.69867 -6.22752,1.19046 -10.61601,-0.59811 -18.37903,-7.49059 -3.93168,-3.49076 -8.0421,-6.35805 -9.13423,-6.37169 -2.36505,-0.0297 -2.6638,4.13427 -0.39713,5.53514 4.58714,2.835 -0.49933,15.09134 -6.26306,15.09134 -1.1228,0 -4.75288,1.52389 -8.06686,3.38646 -8.31878,4.6754 -12.16153,3.16592 -20.52407,-8.06229 -3.8798,-5.20932 -9.05773,-10.95275 -11.50648,-12.76319 -10.42396,-7.70679 -11.05978,-13.58449 -1.99739,-18.4649 9.34983,-5.03522 5.47849,-7.68549 -8.85736,-6.06357 -8.07899,0.91403 -9.12584,0.69524 -9.84578,-2.05782 -1.06858,-4.08622 -12.80054,-10.16593 -22.69268,-11.75974 -8.75456,-1.41051 -15.11382,-7.17241 -18.62123,-16.87191 -2.32059,-6.41748 -3.65049,-6.49908 -6.795709,-0.4168 -2.81268,5.43909 -2.73793,5.41733 -9.815729,2.85797 -6.444262,-2.33026 -6.586061,-4.40069 -1.30419,-19.04321 4.403871,-12.20855 5.47819,-30.07465 1.985684,-33.02217 -9.801782,-8.27238 -10.722783,-9.58373 -10.722783,-15.26742 0,-3.2174 -0.81918,-10.29577 -1.820436,-15.72971 -1.691461,-9.180006 -1.564122,-10.336051 1.797588,-16.317398 4.059489,-7.222892 3.879672,-16.099719 -0.647696,-31.974774 -1.947504,-6.828813 -2.085898,-9.971782 -0.684245,-15.538249 1.437956,-5.71068 1.330634,-7.473774 -0.590915,-9.70813 -1.291364,-1.501562 -4.015482,-5.768264 -6.053586,-9.481528 -2.038133,-3.71325 -4.321384,-6.751375 -5.073899,-6.751375 -7.898558,0 -10.975772,-17.0775579 -3.973542,-22.0518239 10.409634,-7.3948621 12.512771,-24.1321041 8.295988,-66.0214871 -3.00848,-29.8859 -3.262832,-29.08331 9.189132,-28.99654 6.192934,0.0433 13.745395,-1.243375 20.212898,-3.443175 24.88301,-8.46352 31.31077,-10.30856 42.95034,-12.32842 29.14738,-5.05817 38.58179,-9.55627 49.12742,-23.42283 7.70517,-10.13162 9.83735,-11.44555 20.91802,-12.89037 4.20014,-0.54767 11.33722,-3.35628 16.63428,-6.54603 5.10277,-3.07271 13.94482,-6.60063 19.64903,-7.83975 5.70414,-1.23916 14.30292,-3.33211 19.1083,-4.65104 21.48701,-5.89749 45.52208,0.60534 55.17384,14.92759 6.01554,8.92647 1.69758,9.43675 -6.59733,0.77969 -9.6635,-10.08539 -11.77234,-8.27742 -7.79423,6.68224 5.03347,18.92849 24.85827,23.87781 47.16583,11.77505 9.31435,-5.0534 9.31435,-5.0534 23.0341,-2.6601 54.22799,9.45973 71.38674,10.49298 111.25592,6.69956 19.62946,-1.86764 29.82239,-3.56883 35.17177,-5.87009 8.31377,-3.57649 15.64247,-1.57282 22.66984,6.19788 1.5818,1.74908 5.91893,3.63649 9.63809,4.19421 8.20313,1.23015 13.69719,10.28231 13.69719,22.5678 0,14.450775 13.0763,58.860299 23.11606,78.506399 3.79664,7.429356 4.52248,11.040774 5.14844,25.61669725 1.12073,26.09615275 -2.43363,33.07156975 -16.85181,33.07156975 -7.80168,0 -7.80168,0 -11.87923,9.134243 -7.36986,16.509382 -7.33654,16.789594 2.57415,21.638455 12.43924,6.085922 14.78706,11.518936 12.39029,28.671681 -2.54448,18.209765 -2.29078,21.936585 2.182,32.050245 2.50292,5.65957 3.97137,11.90617 3.97137,16.89367 0,6.63076 0.66971,8.44047 4.13115,11.1632 2.27214,1.78727 5.53088,6.53668 7.24172,10.55429 1.71079,4.01759 6.08255,10.34864 9.71501,14.069 6.29877,6.45118 6.51667,6.99687 4.70749,11.79 -1.54572,4.095 -1.42045,6.66508 0.67648,13.87819 4.51324,15.52506 -1.00465,29.21856 -12.48149,30.97467 -8.00806,1.22536 -11.63885,3.93903 -18.00448,13.45663 -2.56286,3.8319 -7.06261,9.1933 -9.99946,11.9142 -6.29469,5.83189 -16.49949,20.32609 -19.76313,28.07021 -1.26809,3.00903 -5.51454,9.31975 -9.43655,14.02383 -7.05458,8.46131 -7.11383,8.63135 -5.53504,15.8856 0.87773,4.03302 1.66112,11.67899 1.74084,16.99108 0.12854,8.55999 0.74194,10.33893 5.39456,15.6426 8.00965,9.1305 5.85108,12.35366 -6.83819,10.21058 -0.8737,-0.1477 -3.01826,0.15907 -4.76568,0.68151 -2.05246,0.61357 -7.95692,-1.51911 -16.67988,-6.02476 z"
        id="path5728"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:0.28;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 1061.4434,-26.890457 C 1048.7729,39.629898 1019.4344,33.24521 984.89127,44.281741 950.34791,55.318272 705.1488,93.256928 577.85559,86.232059 543.05094,84.311317 505.644,100.25985 505.644,100.25985 c -1.00292,8.94829 106.61637,0.63687 151.26068,12.63968 44.64431,12.00282 278.03709,3.80193 333.04268,4.68354 55.00534,0.8816 70.99614,38.99797 70.99614,38.99797 4.0995,8.40582 4.8059,7.77261 11.3519,10.69775 l 0,-212.151328 c -6.64,3.533328 -9.584,12.061839 -10.852,17.982081 z"
        id="path7075"
        inkscape:connector-curvature="0"
@@ -3390,19 +3380,19 @@
        x="27.046898"
        y="746.19989" />
     <path
-       style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -20.044317,-73.140299 c 0,0 19.17268715,-92.058811 79.039879,-102.434811 59.867178,-10.376 63.924748,46.08665 83.995638,4.99973 20.07091,-41.08693 37.94024,11.72074 60.99684,0 23.0566,-11.72073 53.72275,-39.64443 96.495,-37.99803 42.77225,1.64641 -13.58172,42.81748 40.99789,30.49842 54.57959,-12.31906 136.89802,69.15868 158.76299,30.86661 21.86497,-38.29206 -50.95958,-4.98501 -42.04303,-27.82445 8.91655,-22.83944 113.00841,24.12041 134.32252,2.74859 21.31411,-21.37182 -41.79626,-30.48721 -12.31308,-52.15163 29.48319,-21.66442 36.53908,108.41994 72.94955,57.6955 36.41046,-50.72444 -47.47077,-50.80624 -34.07288,-76.14177 13.39791,-25.33553 51.03223,69.66202 86.28874,44.37743 12.39306,-8.88781 22.59348,-32.04027 49.08755,-33.53737 12.56157,-0.70981 116.57062,6.81814 144.69563,19.76905 28.12502,12.95092 9.92117,62.45815 87.24925,38.04777 77.32793,-24.4104 -312.58814,-134.94491 -254.05643,-185.91783 58.53171,-50.97292 195.22435,-71.31408 295.72666,-80.12074 28.821,-2.5313 24.6664,-7.53326 31.1479,-15.60565 l -1079.270617,0 z"
+       style="opacity:0.28000004;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -20.044317,-73.140299 c 0,0 19.17268715,-92.058811 79.039879,-102.434811 59.867178,-10.376 63.924748,46.08665 83.995638,4.99973 20.07091,-41.08693 37.94024,11.72074 60.99684,0 23.0566,-11.72073 53.72275,-39.64443 96.495,-37.99803 42.77225,1.64641 -13.58172,42.81748 40.99789,30.49842 54.57959,-12.31906 136.89802,69.15868 158.76299,30.86661 21.86497,-38.29206 -50.95958,-4.98501 -42.04303,-27.82445 8.91655,-22.83944 113.00841,24.12041 134.32252,2.74859 21.31411,-21.37182 -41.79626,-30.48721 -12.31308,-52.15163 29.48319,-21.66442 41.10711,110.90648 75.62848,67.5889 34.52137,-43.31758 -36.14972,-48.94964 -25.50181,-73.28517 10.64791,-24.33553 39.78223,56.91202 75.03874,31.62743 12.39306,-8.88781 22.59348,-32.04027 49.08755,-33.53737 12.56157,-0.70981 116.57062,6.81814 144.69563,19.76905 28.12502,12.95092 9.92117,62.45815 87.24925,38.04777 77.32793,-24.4104 -312.58814,-134.94491 -254.05643,-185.91783 58.53171,-50.97292 195.22435,-71.31408 295.72666,-80.12074 28.821,-2.5313 24.6664,-7.53326 31.1479,-15.60565 l -1079.270617,0 z"
        id="path7055"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzzzzzzzzzzsszzzcccc" />
     <path
-       style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
-       d="m 781.95808,-96.579255 c 12.99935,19.306117 -63.53731,33.323217 -95.99502,18.499053 -32.45773,-14.824183 -44.80095,-45.149988 -30.9984,-51.997298 13.80253,-6.84731 51.24894,18.24427 73.99617,24.99873 22.74721,6.754425 39.99791,-10.80657 52.99725,8.499515 z"
+       style="opacity:0.28000004;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
+       d="m 784.13945,-84.831832 c 8.87962,21.514222 -68.91441,19.955703 -97.75554,-1.054964 -28.84114,-21.010694 -34.87599,-53.191274 -19.9836,-57.142584 14.89237,-3.95132 46.57004,28.11652 67.50893,39.27994 20.93888,11.163384 41.35061,-2.59658 50.23021,18.917608 z"
        id="path7057"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zzzzz" />
     <path
-       style="display:inline;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
+       style="display:inline;opacity:0.28;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none"
        d="m 1027.5003,-89.091035 c 12.9993,19.306109 -2.0405,99.319796 -14.4993,99.994822 -12.4587,0.67504 -21.30192,-59.149276 -31.99812,-78.995916 -10.69621,-19.846639 -64.24506,-56.751831 -39.99793,-63.996641 24.24713,-7.24483 73.49595,23.69164 86.49535,42.997735 z"
        id="path7057-1"
        inkscape:connector-curvature="0"
@@ -3416,43 +3406,46 @@
      transform="translate(0,435.82677)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter7570-6)"
-       x="128.12308"
-       y="48.36795"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:70.70750427px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="169.18262"
+       y="-367.42746"
        id="text7302"
-       sodipodi:linespacing="125%"
-       transform="matrix(1.4141403,0,0,1.4141403,-0.00138815,-435.82654)"><tspan
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7304"
-         x="128.12308"
-         y="48.36795"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Klimat się zmienia</tspan></text>
+         x="169.18262"
+         y="-367.42746"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:70.70750427px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">Klimat się zmienia</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.85087395px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f0f0f0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="329.18268"
-       y="-314.15326"
+       y="-330.15326"
        id="text7630"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan10540"
          x="329.18268"
-         y="-314.15326">Ekstremalna pogoda zaburza utrzymanie życia </tspan><tspan
+         y="-330.15326"
+         id="tspan6823">W efekcie </tspan><tspan
+         sodipodi:role="line"
+         x="329.18268"
+         y="-306.58966"
+         id="tspan6827">ekstremalna pogoda pogarsza warunki życia</tspan><tspan
          sodipodi:role="line"
          id="tspan10544"
          x="329.18268"
-         y="-290.58966">i zaopatrzenie żywności na świecie poprzez:</tspan><tspan
+         y="-283.02606">i zaopatrzenie żywności na świecie poprzez:</tspan><tspan
          sodipodi:role="line"
          x="329.18268"
-         y="-267.02606"
-         id="tspan6478">susze, pożary lasów, brak wody pitnej,</tspan><tspan
+         y="-259.46249"
+         id="tspan6482">susze, pożary lasów, huragany, powodzie, </tspan><tspan
          sodipodi:role="line"
          x="329.18268"
-         y="-243.46248"
-         id="tspan6482">powodzie, migracje uchodźców</tspan><tspan
+         y="-235.8989"
+         id="tspan6593">brak wody pitnej, migracje uchodźców</tspan><tspan
          sodipodi:role="line"
          x="329.18268"
-         y="-219.8989"
+         y="-212.3353"
          id="tspan6484">i niestabilność polityczną</tspan></text>
     <g
        id="g7699"
@@ -4261,23 +4254,27 @@
    id="tspan7128">2</tspan></tspan><tspan
          sodipodi:role="line"
          id="tspan10392"
+         x="599.35895"
+         y="206.51166">są głównym źródłem </tspan><tspan
+         sodipodi:role="line"
          x="597.11774"
-         y="206.51166">są źródłem tych zmian</tspan></text>
+         y="234.63666"
+         id="tspan8506">tych zmian</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.676754px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="391.49988"
-       y="-107.61881"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93500137px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="369.74588"
+       y="-109.12618"
        id="text7630-7-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan8525"
-         x="391.49988"
-         y="-107.61881">By zapobiec dalszej zmianie klimatu,</tspan><tspan
+         x="369.74588"
+         y="-109.12618">By zapobiec dalszej zmianie klimatu,</tspan><tspan
          sodipodi:role="line"
          id="tspan8527"
-         x="391.49988"
-         y="-85.522873">musimy zmniejszyć spalanie paliw kopalnych</tspan></text>
+         x="369.74588"
+         y="-87.957428">musimy zasadniczo zmniejszyć spalanie paliw kopalnych</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.676754px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4360,17 +4357,17 @@
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6565361px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="666.1651"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6565361px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="664.1651"
        y="93.675865"
        id="text6088"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6090"
-         x="666.1651"
+         x="664.1651"
          y="93.675865"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6565361px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d">60PLN za tonę CO<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2828064px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;baseline-shift:sub;text-anchor:start;fill:#4d4d4d"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6565361px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">60 PLN za tonę CO<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2828064px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;baseline-shift:sub;text-anchor:start;fill:#000000;fill-opacity:1"
    id="tspan6092">2</tspan> to:</tspan></text>
     <text
        xml:space="preserve"
@@ -4407,7 +4404,7 @@
          y="242.98799">3,78 zł za 1 GJ z ciepłowni gazowej</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8181572px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#46761d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.8181572px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="45.251102"
        y="277.41235"
        id="text6125"
@@ -4431,7 +4428,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.75px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e0ed49;fill-opacity:1">Comiesięczne oszczędności</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6060524px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6060524px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#343434;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="669.06409"
        y="111.81676"
        id="text6131-7-2"
@@ -4440,7 +4437,7 @@
          id="tspan6133-4-3"
          x="669.06409"
          y="111.81676">(pośredni wzost cen produktów przyczyniających się do emisji CO<tspan
-   style="font-size:6.89393425px;baseline-shift:sub"
+   style="font-size:6.89393425px;baseline-shift:sub;fill:#343434;fill-opacity:1;"
    id="tspan6297">2</tspan>)</tspan></text>
     <text
        xml:space="preserve"
@@ -4482,12 +4479,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.75px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e0ed49;fill-opacity:1">Wzrost gospodarczy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.5px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#28a02c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter10514)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.50020599px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#28a02c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter10514)"
        x="245.10844"
        y="875.47571"
        id="text5456-7-4"
        sodipodi:linespacing="125%"
-       transform="matrix(1.4141403,0,0,1.4141403,-0.00138815,-435.82654)"><tspan
+       transform="matrix(1.4141403,0,0,1.4141403,179.36171,-435.82654)"><tspan
          sodipodi:role="line"
          id="tspan5458-0-9"
          x="245.10844"
@@ -8389,13 +8386,13 @@
        id="text8822"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan8830"
-         x="528.67792"
-         y="902.29266">codziennie buduje polityczną wolę,</tspan><tspan
+         x="531.14301"
+         y="902.29266"
+         id="tspan6831">codziennie buduje polityczną wolę, by uchwalić w swoim kraju </tspan><tspan
          sodipodi:role="line"
-         id="tspan8832"
          x="528.67792"
-         y="933.22699">by uchwalić ustawę o opłacie i dywidendzie węglowej</tspan></text>
+         y="933.22699"
+         id="tspan6835">ustawę o opłacie i dywidendzie węglowej. Zadbaj z nami o przyszłość Polski</tspan></text>
     <g
        id="g9520"
        transform="matrix(0.70833333,0,0,0.70833333,1513.8427,655.8433)">
@@ -10961,7 +10958,7 @@
          id="tspan6798">i będzie stymulować rozwój nowoczesnych technologii</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="225.64"
        y="289.82224"
        id="text6131"
@@ -10972,7 +10969,7 @@
          y="289.82224">(rodzice z 2 dzieci)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4444294px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#2d4c13;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.4444294px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="34.996803"
        y="305.10693"
        id="text6135"
@@ -11003,7 +11000,7 @@
          id="tspan6151">      10,05 zł na ogrzewanie</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="199.24576"
        y="327.44818"
        id="text6131-7"
@@ -11014,7 +11011,7 @@
          y="327.44818">(z dywidendy węglowej)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="208.23993"
        y="376.43652"
        id="text6131-7-1"
@@ -11025,7 +11022,7 @@
          y="376.43652">(1500 km autem 8l/100)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="191.43982"
        y="400.66757"
        id="text6131-7-1-4"
@@ -11036,7 +11033,7 @@
          y="400.66757">(250 kWh z el. węglowych)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.3737278px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#414141;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="246.83746"
        y="424.76218"
        id="text6131-7-1-4-0"
@@ -11058,7 +11055,7 @@
          y="540.36218" /></text>
     <g
        id="g6582"
-       transform="matrix(-0.26035042,0,0,0.26035042,705.81124,307.45416)"
+       transform="matrix(-0.23616381,0,0,0.23616381,769.36904,315.19968)"
        style="fill:#ffffff">
       <g
          id="g6542"
@@ -11117,7 +11114,7 @@
     </g>
     <g
        id="g6677"
-       transform="matrix(2.6122343,0,0,2.6122343,730.44307,265.9162)">
+       transform="matrix(2.6122343,0,0,2.6122343,690.44307,265.9162)">
       <g
          id="g6602"
          style="fill:#ffffff"
@@ -11132,11 +11129,11 @@
              style="fill:#ffffff" />
           <polygon
              id="polygon6608"
-             points="32.576,13.136 32.161,13.222 32.104,13.814 32.604,13.814 33.268,13.75 33.609,13.343 33.247,13.201 33.047,12.972 32.747,12.488 32.604,11.8 32.04,11.916 31.881,12.158 31.881,12.429 32.154,12.615 32.542,12.859 "
+             points="32.104,13.814 32.604,13.814 33.268,13.75 33.609,13.343 33.247,13.201 33.047,12.972 32.747,12.488 32.604,11.8 32.04,11.916 31.881,12.158 31.881,12.429 32.154,12.615 32.542,12.859 32.576,13.136 32.161,13.222 "
              style="fill:#ffffff" />
           <polygon
              id="polygon6610"
-             points="32.061,13.086 32.09,12.716 31.76,12.572 31.297,12.679 30.956,13.228 30.956,13.586 31.355,13.586 "
+             points="31.76,12.572 31.297,12.679 30.956,13.228 30.956,13.586 31.355,13.586 32.061,13.086 32.09,12.716 "
              style="fill:#ffffff" />
           <path
              id="path6612"
@@ -11145,7 +11142,7 @@
              style="fill:#ffffff" />
           <polygon
              id="polygon6614"
-             points="21.263,15.371 21.621,15.341 21.658,15.093 21.444,14.923 21.283,15.123 "
+             points="21.658,15.093 21.444,14.923 21.283,15.123 21.263,15.371 21.621,15.341 "
              style="fill:#ffffff" />
         </g>
       </g>
@@ -11182,8 +11179,14 @@
     </g>
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 699.291,378.70016 c 78.26737,1.54716 153.68639,-6.16282 228.2069,-16.79291 l 4.59619,25.80811 C 856.47688,397.53593 775.85064,398.10283 699.291,400.2658 Z"
+       d="m 762.791,378.70016 c 43.47113,1.54716 85.36023,-6.16282 126.75028,-16.79291 l 2.55281,25.80811 c -41.99918,9.82057 -86.78047,10.38747 -129.30309,12.55044 z"
        id="rect6723"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1019.75,349.25504 c 18.9713,1.11959 50.7288,2.205 56.9138,3.35876 l -0.5,20.65362 c -18.9765,-0.6161 -38.2588,-0.49939 -57.3495,-0.0732 z"
+       id="rect6855"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
   </g>
