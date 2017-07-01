@@ -113,24 +113,45 @@ a.main-button:hover, .navbar-default .navbar-nav>li>a.main-button:hover{
 #wydarzenia a{
 	color:#ffffff;	
 }
-#wydarzenia a:hover{
+#wydarzenia a:hover, #wydarzenia a:hover:nth-child(odd) + a{
 	color:#a4dcf4;
 	text-decoration:none;
 }
-#wydarzenia ul{
-	list-style-type: none;
+#wydarzenia .grid {
+	font-size:1.2em;
+	display: grid;
+	grid-template-columns: auto 1fr;
+	grid-gap: 18px;
+	align-items: center;
+	padding: 10px 0px 10px 0px;
 }
-#wydarzenia li{
-	font-size:2em;
-	clear: both;
+#wydarzenia .grid img{
+	width: 150px;
 }
-#wydarzenia .fa{
-	font-size:6em;
-	float: left;
-	padding-right:20px;
+
+@media (min-width: 768px) {
+	#wydarzenia .grid {
+		font-size:1.4em;
+	}
+	#wydarzenia .grid img{
+		width: 200px;
+	}
 }
-#wydarzenia li div{
-	padding-top: 40px;
+@media (min-width: 992px) {
+	#wydarzenia .grid {
+		font-size:1.8em;
+	}
+	#wydarzenia .grid img{
+		width: 300px;
+	}
+}
+@media (min-width: 1200px) {
+	#wydarzenia .grid {
+		font-size:2em;
+	}
+	#wydarzenia .grid img{
+		width: 330px;
+	}
 }
 
 #dolacz{

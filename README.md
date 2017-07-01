@@ -8,7 +8,7 @@ Citizens’ Climate Lobby (CCL) jest międzynarodową organizacją pozarządową
 If you have a web developer familiar with GIT version control system, fork it on github.
 If you have limited dev resources you can just click "Download ZIP" button.
 
-## Edit index.html and provide your text instead of existing Polish text
+## Edit index.php and provide your text instead of existing Polish text
 ## Edit img files
 Preferably
 Download Gimp https://www.gimp.org/downloads/
@@ -25,3 +25,26 @@ Note: sprite image contains 3 graphics together, it's a bundle saving network tr
 It has anti-spam protection 'pol' + 'and' instead of poland@domain.com
 
 You can break your country word in pieces and create something like 'coun'+'try'
+
+# Setting up dev environment with PHP and MySQL
+#### Install XAMPP
+#### Configure httpd.conf
+~~~~
+Alias /ccl "D:/projects/ccl-polska"
+
+<Directory "D:/projects/ccl-polska">
+    Options Indexes FollowSymLinks Includes ExecCGI
+    AllowOverride All
+    Order allow,deny
+    Allow from all
+    Require all granted
+</Directory>
+~~~~
+#### Export WordPress DB and import it locally
+You will need to create a user
+~~~~
+create user 'theuser' identified by 'thepassword'
+GRANT ALL PRIVILEGES ON thedb.* TO 'theuser'
+~~~~
+#### update config.php
+Put your local database credentials in config.php. Don't commit it to the git repository!

@@ -131,21 +131,46 @@ $(function() {
 	<div class="linkable" id="wydarzenia">
 		<div class="container">
 			<h2>Wydarzenia</h2>
-			<ul>
-				<li><a href="http://pl.citizensclimatelobby.org/blog/11-waznych-pytan-przy-projektowaniu-ustawy-o-oplacie-weglowej/">
-					<i class="fa fa-balance-scale" aria-hidden="true"></i> <div>11 ważnych pytań przy projektowaniu ustawy o opłacie węglowej</div>
-				</a></li>
-				<li><a href="https://www.youtube.com/watch?v=YfM6pEVejjU">
-					<i class="fa fa-youtube-play" aria-hidden="true"></i> <div>Udostępniliśmy polskojęzyczną prezentację:<br> "Rewolucja energetyczna w świetle zmiany klimatu"</div>
-				</a></li>
-				<li><a href="http://pl.citizensclimatelobby.org/blog/temperatury-w-2016-bija-rekordy-i-podtrzymuja-trend-zmiany-klimatu/">
-					<i class="fa fa-envira"></i> <div>Temperatury w 2016 biją rekordy i podtrzymują trend zmiany klimatu</div>
-				</a></li>
-				<li><a href="http://pl.citizensclimatelobby.org/blog/ustawa-o-oplacie-i-dywidendzie-weglowej-zostanie-przyjeta-do-konca-2017-roku/">
-					<i class="fa fa-university"></i> <div>Ustawa o opłacie i dywidendzie węglowej zostanie przyjęta do końca 2017 roku</div>
-				</a></li>
-			</ul>
-			
+			<div class="grid">
+<?php
+error_reporting(E_ERROR);
+require "config.php";
+function getNewsHtml($conn) {
+    if ($conn->connect_error) {
+        return "";
+    }
+    if (!$conn->set_charset("utf8")) {
+        $conn->close();
+        return "";
+    }
+    $sql = "SELECT post_title, post_name, post_content FROM `wp_hogf_posts` where post_status = 'publish' order by post_date desc limit 3";
+    $result = $conn->query($sql);
+    $response = "";
+    if ($result->num_rows > 0) {
+        while($row = $result->fetch_assoc()) {
+            preg_match('/img[^>]+src=["\']([^"\']+)" alt="([^"\']*)/', $row["post_content"], $a);
+            $imgSrc = $a[1];
+            $imgAlt = $a[2];
+            if($imgSrc != ""){
+                $aHrefOpening = "<a href='http://pl.citizensclimatelobby.org/blog/" . $row["post_name"]. "/'>";
+                $response .= "\t\t\t\t$aHrefOpening<img src='$imgSrc' alt='$imgAlt'/></a>\n";
+                $response .= "\t\t\t\t$aHrefOpening" . $row["post_title"]. "</a>\n";
+            }
+        }
+    }
+    $conn->close();
+    return $response;
+}
+$conn = new mysqli($dbServerName, $dbUsername, $dbPassword, $dbName);
+
+$html = getNewsHtml($conn);
+if("" == $html){
+    echo "Chwilowo niedostępne";
+} else {
+    echo $html;
+}
+?>
+			</div>
 		</div>
 	</div>
 	
